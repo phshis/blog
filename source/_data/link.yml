@@ -1,0 +1,28 @@
+# 1. 確保你使用 Butterfly 主題
+# 2. Fork [butterfly.js.org 倉庫](https://github.com/jerryc127/butterfly.js.org)
+# 3. 修改 source/_data/link.yml
+# 4. 按要求新增內容
+#     - name: 博客名
+#       link: 博客地址
+#       avatar: 博客頭像
+#       descr: 博客描述
+# 5. 發起 Pull requests ，合併到 butterfly.js.org 倉庫
+
+- class_name: '<i class="fas fa-check-double" style="color: #FF6666;padding-right: 0.4rem"></i>私人财产'
+  class_desc: '<span style="font-style: italic;">重要的事情説一遍</span>'
+  link_list:
+    - name: github
+      link: https://github.com/XiaoXiao-S
+      avatar: https://cdn.jsdelivr.net/gh/jerryc127/CDN/img/butterfly-github-avatar.png
+      descr: '🦋 my github'
+
+- class_name: '<i class="fas fa-fan" style="color:#00cccc;padding-right: 0.4rem"></i>大佬推荐'
+  class_desc: '<span style="font-style: italic;">最厉害的朋友在这里</span>'
+  link_list:
+    - name: Jarome‘s blog
+      link: https://jiangliuhong.top
+      avatar: https://blog.jiangliuhong.top/img/my.png
+      descr: 姜大佬的blog
+
+
+
